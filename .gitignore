@@ -1,0 +1,11 @@
+.agents/
+.amazonq/
+.claude/
+skills/
+skills-lock.json
+node_modules/
+dist/
+.worktrees/
+
+# gstack (global install)
+.amazonq/rules/gstack.md
